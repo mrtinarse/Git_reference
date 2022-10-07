@@ -13,10 +13,4 @@ tuoarad maricas de mierda yd a comseros el ano a la bosa
 https://acortar.link/rSuvgQ
 
 
-
-
-viva jesucristro uwuwuwuwuwuwuwu
-
-viva jesucristro uwuwuwuwuwuwuwu
-hola soy ramon
-SI
+zvkzkvjn    ajdiafavnsvpsdvfw
