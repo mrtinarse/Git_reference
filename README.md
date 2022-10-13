@@ -4,14 +4,22 @@
 ##BIENVENIDOS A LA GUIA GIT
 Es ta guia esta creada por Martín Arce Rodrigo para guiar a los nuevos usuarios de MarkDown.
 
-_###Git Commit:_
-Hace una copia apate del archivo en el que estamos escribiendo.
+**###Git Commit:**
++Hace una copia apate del archivo en el que estamos escribiendo.
 
-_###Git Branch:_
-Nos permite crear ramas
+*git commit -a -m "Mi primer commit"
 
-_###Git Checkout:_
-Nos permite movernos entre las ramas creadas
+**###Git Branch:**
++Nos permite crear ramas
 
-_###Git merge:_
-Nos permite unir ramas con otras ramas
+*git branch nombre rama
+
+**###Git Checkout:**
++Nos permite movernos entre las ramas creadas
+
+*git checkout nombre rama **(a la que queremos movernos)**
+
+**###Git merge:**
++Nos permite unir ramas con otras ramas
+
+*git merge bugfix **(nombre de la rama que queremos unir)**
