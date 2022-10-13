@@ -3,9 +3,9 @@
 
 ## BIENVENIDOS A LA GUIA GIT
 
-Anem a vore el **git switch**, **git rebase**, i **git tag**
+Vamos a ver el **git switch**, **git rebase**, i **git tag**
 
-1. 
+1. Para cambiar entre ramas de nuestro repositório
 
 
 
