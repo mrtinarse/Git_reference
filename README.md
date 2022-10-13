@@ -9,3 +9,9 @@ Hace una copia apate del archivo en el que estamos escribiendo.
 
 _###Git Branch:_
 Nos permite crear ramas
+
+_###Git Checkout:_
+Nos permite movernos entre las ramas creadas
+
+_###Git merge:_
+Nos permite unir ramas con otras ramas
