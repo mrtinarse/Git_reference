@@ -14,7 +14,7 @@ Git Push es basicamente lo mismo que el anterior, pero este en vez de extraer el
 
 
 ##### **_GIT SWITCH_** 
-Sirve para cambiar entre ramas de nuestro repositório. 
+Sirve para cambiar entre ramas de nuestro repositorio. 
 
 ##### **_GIT REBASE_** 
 Sirve para recopilar uno a uno los cambios confirmados en una rama, y reaplicarlos sobre otra.
