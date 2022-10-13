@@ -13,8 +13,10 @@ Git Push es basicamente lo mismo que el anterior, pero este en vez de extraer el
 
 
 
-##### **_GIT SWITCH_** :Sirve para cambiar entre ramas de nuestro repositório. 
+##### **_GIT SWITCH_** :Sirve para cambiar entre ramas de nuestro repositorio. 
 
 ##### **_GIT REBASE_** :Sirve para recopilar uno a uno los cambios confirmados en una rama, y reaplicarlos sobre otra.
 
 ##### **_GIT TAG_** :Sirve básicamente como una rama firmada que no permuta, es decir, siempre se mantiene inalterable.
+
+
