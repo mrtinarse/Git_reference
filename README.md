@@ -8,6 +8,7 @@ Es ta guia esta creada por Martín Arce Rodrigo para guiar a los nuevos usuarios
 +Hace una copia apate del archivo en el que estamos escribiendo.
 
 *git commit -a -m "Mi primer commit"
+
 ##### Git Clone
 
 ##### **_Git Clone_**
