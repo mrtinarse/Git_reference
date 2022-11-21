@@ -30,7 +30,7 @@ Se utiliza para extraer y descargar contenido desde un repositorio remoto, actua
 ##### **_Git Push_**
 Git Push es basicamente lo mismo que el anterior, pero este en vez de extraer el contenido, loq ue hace es cargarlo a un repositorio remoto.
 
-**###Git Branch:**
+### Git Branch:
 
 Nos permite crear ramas:
 
