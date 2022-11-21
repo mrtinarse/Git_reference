@@ -30,19 +30,20 @@ Se utiliza para extraer y descargar contenido desde un repositorio remoto, actua
 ##### **_Git Push_**
 Git Push es basicamente lo mismo que el anterior, pero este en vez de extraer el contenido, loq ue hace es cargarlo a un repositorio remoto.
 
-### Git Branch:
+### Git Branch
 
 Nos permite crear ramas:
-
 
 ```
 git branch nombre-rama
 ```
 
-**###Git Checkout:**
+### Git Checkout
 +Nos permite movernos entre las ramas creadas
 
-*git checkout nombre rama **(a la que queremos movernos)**
+```
+git checkout nombre rama a la que queremos movernos)
+```
 
 **###Git merge:**
 +Nos permite unir ramas con otras ramas
