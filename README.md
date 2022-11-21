@@ -68,3 +68,8 @@ git rebase vicente
 
 ### GIT TAG 
 Sirve básicamente como una rama firmada que no permuta, es decir, siempre se mantiene inalterable.
+
+```
+git tag
+```
+
