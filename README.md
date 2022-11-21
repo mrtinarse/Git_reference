@@ -73,3 +73,4 @@ Sirve básicamente como una rama firmada que no permuta, es decir, siempre se ma
 git tag
 ```
 
+Martin Arce Rodrigo, Ramón Martí Adsuara , Vicente Ardau Romai, Néstor Cantarero Pacheco
