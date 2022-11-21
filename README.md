@@ -11,7 +11,7 @@ Hace un snapshot de los archivos del proyecto en el que estamos trabajando.
 git commit -a -m "Mi primer commit"
 ```
 
-##### Git Clone
+### Git Clone
 
 Git clone se utiliza basicamente para apuntar a un repositorio y clonarlo en otro respositorio, en otra ubicación.
 
@@ -24,7 +24,7 @@ Por ejemplo:
 git clone https://github.com/mrtinarse/Git_reference
 ```
 
-##### **_Git Pull**_
+### Git Pull
 Se utiliza para extraer y descargar contenido desde un repositorio remoto, actualizando automaticamente el repositorio local a donde lo hemos extraido.
 
 ##### **_Git Push_**
