@@ -39,7 +39,7 @@ git branch nombre-rama
 ```
 
 ### Git Checkout
-+Nos permite movernos entre las ramas creadas
+Nos permite movernos entre las ramas creadas
 
 ```
 git checkout nombre rama a la que queremos movernos)
