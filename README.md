@@ -13,8 +13,16 @@ git commit -a -m "Mi primer commit"
 
 ##### Git Clone
 
-##### **_Git Clone_**
 Git clone se utiliza basicamente para apuntar a un repositorio y clonarlo en otro respositorio, en otra ubicación.
+
+```
+git clone <URL_REPO>
+```
+
+Por ejemplo:
+```
+git clone https://github.com/mrtinarse/Git_reference
+```
 
 ##### **_Git Pull**_
 Se utiliza para extraer y descargar contenido desde un repositorio remoto, actualizando automaticamente el repositorio local a donde lo hemos extraido.
