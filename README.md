@@ -27,7 +27,7 @@ git clone https://github.com/mrtinarse/Git_reference
 ### Git Pull
 Se utiliza para extraer y descargar contenido desde un repositorio remoto, actualizando automaticamente el repositorio local a donde lo hemos extraido.
 
-##### **_Git Push_**
+### Git Push
 Git Push es basicamente lo mismo que el anterior, pero este en vez de extraer el contenido, loq ue hace es cargarlo a un repositorio remoto.
 
 ### Git Branch
@@ -45,15 +45,26 @@ Nos permite movernos entre las ramas creadas
 git checkout nombre rama a la que queremos movernos)
 ```
 
-**###Git merge:**
-+Nos permite unir ramas con otras ramas
+### Git merge
+Nos permite unir ramas con otras ramas
 
-*git merge bugfix **(nombre de la rama que queremos unir)**
-##### **_GIT SWITCH_** 
+```
+git merge bugfix 
+```
+
+### GIT SWITCH
 Sirve para cambiar entre ramas de nuestro repositorio. 
 
-##### **_GIT REBASE_** 
+```
+git switch -c bugfix2
+```
+
+### GIT REBASE
 Sirve para recopilar uno a uno los cambios confirmados en una rama, y reaplicarlos sobre otra.
 
-##### **_GIT TAG_** 
+```
+git rebase vicente
+```
+
+### GIT TAG 
 Sirve básicamente como una rama firmada que no permuta, es decir, siempre se mantiene inalterable.
