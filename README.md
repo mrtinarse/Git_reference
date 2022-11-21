@@ -4,26 +4,40 @@
 
 Es ta guia esta creada por Martín Arce Rodrigo para guiar a los nuevos usuarios de MarkDown.
 
-##### **Git Commit:**
-+Hace una copia apate del archivo en el que estamos escribiendo.
+### Git Commit:
+Hace un snapshot de los archivos del proyecto en el que estamos trabajando.
 
-*git commit -a -m "Mi primer commit"
+```
+git commit -a -m "Mi primer commit"
+```
 
-##### Git Clone
+### Git Clone
 
-##### **_Git Clone_**
 Git clone se utiliza basicamente para apuntar a un repositorio y clonarlo en otro respositorio, en otra ubicación.
 
-##### **_Git Pull**_
+```
+git clone <URL_REPO>
+```
+
+Por ejemplo:
+```
+git clone https://github.com/mrtinarse/Git_reference
+```
+
+### Git Pull
 Se utiliza para extraer y descargar contenido desde un repositorio remoto, actualizando automaticamente el repositorio local a donde lo hemos extraido.
 
 ##### **_Git Push_**
 Git Push es basicamente lo mismo que el anterior, pero este en vez de extraer el contenido, loq ue hace es cargarlo a un repositorio remoto.
 
-##### **Git Branch:**
-+Nos permite crear ramas
+### Git Branch:
 
-*git branch nombre rama
+Nos permite crear ramas:
+
+
+```
+git branch nombre-rama
+```
 
 ##### **Git Checkout:**
 +Nos permite movernos entre las ramas creadas
