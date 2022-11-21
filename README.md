@@ -26,7 +26,7 @@ git clone https://github.com/mrtinarse/Git_reference
 ### GIT PULL
 Se utiliza para extraer y descargar contenido desde un repositorio remoto, actualizando automaticamente el repositorio local a donde lo hemos extraido.
 
-### Git PUSH
+### GIT PUSH
 Git Push es basicamente lo mismo que el anterior, pero este en vez de extraer el contenido, loq ue hace es cargarlo a un repositorio remoto.
 
 ### GIT BRANCH
