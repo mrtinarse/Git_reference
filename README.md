@@ -37,14 +37,14 @@ Nos permite crear ramas:
 git branch nombre-rama
 ```
 
-### Git Checkout
+### GIT CHECKOUT
 Nos permite movernos entre las ramas creadas
 
 ```
 git checkout nombre rama a la que queremos movernos)
 ```
 
-### Git merge
+### GIT MERGE
 Nos permite unir ramas con otras ramas
 
 ```
